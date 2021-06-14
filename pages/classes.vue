@@ -71,11 +71,11 @@
                         <v-text-field
                         v-model="search"
                         append-icon="mdi-magnify"
-                        label="Search by Order #"
+                        label="Search by Teacher"
                         single-line
                         clearable
                         hide-details
-                        placeholder="Search by Order #"
+                        placeholder="Search by Teacher"
                       ></v-text-field>
                        <v-spacer></v-spacer><!--v-btn icon color="red" @click="load_data"><v-icon>mdi-refresh-circle</v-icon></v-btn-->
                         </v-toolbar>

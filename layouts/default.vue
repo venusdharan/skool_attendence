@@ -64,15 +64,15 @@ export default {
           to: '/'
         },
         {
-          icon: 'mdi-apps',
+          icon: 'mdi-chart-bubble',
           title: 'All Classes',
           to: '/classes'
-        },
+        },/*
         {
           icon: 'mdi-chart-bubble',
           title: 'View Attendance',
           to: '/attendance'
-        }
+        }*/
       ],
       miniVariant: false,
       right: true,
