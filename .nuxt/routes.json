@@ -1,0 +1,30 @@
+[
+  {
+    "name": "classes",
+    "path": "/classes",
+    "component": "C:\\\\Users\\\\Triophore\\\\3D Objects\\\\skool_attendence\\\\pages\\\\classes.vue",
+    "chunkName": "pages/classes",
+    "_name": "_c492934c"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\Triophore\\\\3D Objects\\\\skool_attendence\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_3d3d770e"
+  },
+  {
+    "name": "attendance-id",
+    "path": "/attendance/:id?",
+    "component": "C:\\\\Users\\\\Triophore\\\\3D Objects\\\\skool_attendence\\\\pages\\\\attendance\\\\_id.vue",
+    "chunkName": "pages/attendance/_id",
+    "_name": "_29c001a5"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Triophore\\\\3D Objects\\\\skool_attendence\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_224b6806"
+  }
+]
