@@ -49,7 +49,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL:"http://142.93.209.130:5000/"//"https://compass-attendence.herokuapp.com/"  //, 'http://localhost:5000/' //:4600 https://redglee.co.in   http://192.168.0.104:4600 https://compass-attendence.herokuapp.com/
+    baseURL:"http://142.93.209.130:5000/"
 
   },
 
